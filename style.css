@@ -1,0 +1,35 @@
+.chess{
+    width:650px;
+}
+.num,.cherniye,.beliye,.letter{
+    width:70px;
+    height:70px;
+}
+.cherniye{
+     background-color: grey;
+ }
+
+.one{
+    border-left: 1px solid grey;
+}
+.col{
+    float:left;
+    border:1px solid grey;
+}
+.num,.letter{
+     box-sizing: border-box;
+     text-align: center;
+     padding-top: 20px;
+ }
+.divClear{
+    clear: both;
+}
+.letter{
+    float:left;
+}
+img{
+    width: 70px;
+}
+.number{
+     float:left;
+ }
